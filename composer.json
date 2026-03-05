@@ -1,0 +1,9 @@
+{
+    "name": "mathieudegracia/archi-event-bus",
+    "autoload": {
+        "psr-4": {
+            "Mathieudegracia\\ArchiEventBus\\": "src/"
+        }
+    },
+    "require": {}
+}
